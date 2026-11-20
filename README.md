@@ -7,5 +7,5 @@ This milestone advances the simulation framework from idealized distance-based s
 * **Empirical Evaluation:** Assessed across **707 empirical voyages** under compound disruption along the **Waal**, **Gelderse IJssel**, and **Twentekanaal**.
 * **Physical Infrastructure Constraints:** Enforces physical lock chamber widths and vessel-beam clearance limits to eliminate infeasible push-tow convoy detours.
 * **Routing Benchmark:** Quantifies structural route divergence against the baseline crawler.
-* **Mitigation Scheduling:** Demonstrates authoritative mitigation scheduling optimized directly for cumulative fleet delay hours saved ($\pi_{\text{hours}}^*$, recovering over **811 hours** of systemic delay) alongside classic spatial metrics ($\pi_{\text{dist}}^*$).
+* **Mitigation Scheduling:** Demonstrates authoritative mitigation scheduling optimized directly for cumulative fleet delay hours saved , recovering over **811 hours** of systemic delay).
 * **Visualization Export:** Exports the complete analytical pipeline directly to the GPU-accelerated standalone visualizer.
