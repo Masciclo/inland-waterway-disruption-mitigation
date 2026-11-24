@@ -16,7 +16,7 @@ The repository includes a unified, connected MapLibre suite with a glassmorphic 
    * Fleet-adaptive 6-tier classification scales tailored specifically for All Fleet, Dry Cargo, Tankers, Push Tows, and Other craft.
    * Floating HUD card with corridor-level traffic volumes, average cargo payload, standard deviation, and NSTR commodity shares.
 
-3. **[Mitigation (`index.html`)](./index.html)**
+3. **[Mitigation (`map_12_2_structural_fleet_equity.html` / `index.html`)](./map_12_2_structural_fleet_equity.html)**
    * Strategic disruption mitigation sequencing comparing $\pi^*_{\text{distance}}$ vs. $\pi^*_{\text{hours}}$ optimal recovery curves.
    * Corridor-level traffic restoration, vessel class equity impact, and terminal resilience.
    * Morphed donut micro-charts and dynamic mitigation chains.
